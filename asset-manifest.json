@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TikTac/static/css/main.d7dde855.css",
+    "main.js": "/TikTac/static/js/main.fd31b18f.js",
+    "index.html": "/TikTac/index.html",
+    "main.d7dde855.css.map": "/TikTac/static/css/main.d7dde855.css.map",
+    "main.fd31b18f.js.map": "/TikTac/static/js/main.fd31b18f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7dde855.css",
+    "static/js/main.fd31b18f.js"
+  ]
+}
